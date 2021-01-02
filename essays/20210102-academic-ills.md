@@ -8,7 +8,8 @@ Interesting read; I do have some reservations, though. Generally speaking, I see
 Instead of the mono-causal need for "customers," I'd attest a melange of a variety of shortcomings, which in combination lead to slow pace: 
 - fashion, 
 - conferences vs journals, and 
-- a good dose of [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law).
+- a good dose of [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law), 
+- (for systems research, I listed some perils).
 
 ## Opposing view: Need for customers
 I am opposing the view that science *needs* to have a customer. 
@@ -57,7 +58,7 @@ Goodhart's law is also complicit. Scientists are smart people and will figure ou
 
 ### Perils of systems research
 [Michael Stonebraker](https://www.youtube.com/watch?v=DJFKl_5JTnA) summarized his "fears" for database research a couple of years ago, and I feel his diagnosis holds for systems research in general. 
-I talked to several senior members of the PL community and they confirmed that PLDI before the 00s was a lot more about ideas without a solid, industrial-strength implementation and full-blown evaluation. 
+I talked to several senior members of the PL community and they, too, confirmed that PLDI before the 00s was a lot more about ideas without a solid, industrial-strength implementation and full-blown evaluation. 
 Nowadays, a grad student has to implement something for two years to obtain interesting results, only to be shot down by a reviewer in what often appears to amount to less than one hour of work by a reviewer.
 
 Another downside of systems research is that the community is often acting in a self-destructive way.
@@ -78,4 +79,4 @@ What I do know, though, is that Einstein's famous definition of insanity may be 
 "*Doing the same thing over and over again and expecting different results.*" 
 
 
-(c) stefan brunthaler, 2021-01-02, 15:01
+(c) stefan brunthaler, 2021-01-02, 23:03
