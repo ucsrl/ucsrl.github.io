@@ -69,13 +69,15 @@ A good idea with a shoddy implementation is much better than a shoddy idea with 
 Insecure and overblown egos are damaging the field, alienating junior members and stifling systems research.
 
 # What are we to do?
-We need an environment conducive to and fostering research. Personally, I believe that we need to stop the nonsensical and gigantic waste of tax payer money to maintain the conference circuit that shows diminishing returns. 
-If we had journals, with smaller focus and smaller, but actual expert reviewers, we could ensure progress in **all** subfields regardless of fashion. 
-By having two or three journals in a sub-field, one could focus on early-stage/prototypical v late-stage/finished work.
+We need an environment conducive and committed to research. 
+Personally, I believe that we need to stop the nonsensical and gigantic waste of tax payer money to maintain the conference circuit that shows diminishing returns. 
+If we had journals, with smaller focus and smaller, but actual expert reviewers, we could ensure progress in **all** subfields regardless of fashion du jour.
+By having two or three journals in a sub-field, one could focus on early-stage/prototypical vs late-stage/finished work.
 Goodhart's law ensures that this switch is not ideal and will also have downsides. 
+
 The alternative is to maintain the status quo.
 Whether this is wise or not, I do not know. 
-What I do know, though, is that Einstein's famous definition of insanity may be relevant:
+What I do know, though, is that Einstein's famous definition of insanity applies:
 "*Doing the same thing over and over again and expecting different results.*" 
 
 
