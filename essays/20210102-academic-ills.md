@@ -75,7 +75,7 @@ Insecure and overblown egos are damaging the field, alienating junior members an
 # What are we to do?
 We need an environment conducive and committed to research. 
 Personally, I believe that we need to stop the nonsensical and gigantic waste of tax payer money to maintain the conference circuit that shows diminishing returns. 
-If we had journals, with smaller focus and smaller, but actual expert reviewers, we could ensure progress in **all** subfields regardless of fashion du jour.
+If we had journals, with smaller focus and smaller, but actual expert reviewers, we could ensure progress in **all** subfields regardless of the fashion du jour.
 By having two or three journals in a sub-field, one could focus on early-stage/prototypical vs late-stage/finished work.
 Goodhart's law ensures that this switch is not ideal and will also have downsides. 
 
