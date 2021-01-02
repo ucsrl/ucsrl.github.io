@@ -4,7 +4,7 @@ This short essay is a response to [Daniel Lemire's post](https://lemire.me/blog/
 Originally, I intended for this to be quick tweet, but after line 35 of my response, I realized that it's too long for Twitter and needs to be an essay on its own.
 
 ## Tl;dr
-Interesting read; I do have some reservations, though. Generally speaking, I see the same symptoms, but think the diagnosis is too simplistic to generalize over all science. 
+Interesting read; I do have some reservations, though. Generally speaking, I see the same symptoms, but think the diagnosis is too narrow to be generally applicable. 
 Instead of the mono-causal need for "customers," I'd attest a melange of a variety of shortcomings, which in combination lead to slow pace: 
 - fashion, 
 - conferences v. journals, and 
@@ -21,19 +21,21 @@ A customer may emerge in 100 or 200 years in the future. To mandate a customer w
 Over the past ten years, I've often felt that parts of computer science I am familiar with--programming languages and computer security--have become increasingly fashion oriented.
 Among the non-CS scientists I know, the feeling is pretty much the same.
 The fashion aspect in science is pervasive: it influences choice of topics, relative ranking of topics, being "first," importance of venues, and certainly a lot of other things. 
-The key downside of this fashion circus is that it often moves to fast for science to matter and/or mature: When one gets past the low-hanging fruit and the fashion circuit moved elsewhere, what are you supposed to do?
+The key downside of this fashion circuit is that it often moves to fast for science to matter and/or mature: 
+When one gets past the low-hanging fruit and the fashion circuit moved elsewhere, what are you supposed to do?
 
 ### Conferences
 CS conferences need reconsideration, too. 
-I've always had the opinion that CS is *not* special and that the conference-focus is merely an artifact of its age. 
-Conferences also suffer from fashion-aspects, but the primary function of conferences seems to be defunct. 
+I've always held the opinion that CS is *not* special and that the conference-focus is merely an artifact of its age. 
+Conferences also suffer from fashion-aspects, but the major issue, in my opinion is that the function of conferences seems to be defunct. 
 
 When you take 100pct of the papers, probably half that are not a good fit (premature submission, subpar language, etc.) can be identified relatively quickly. 
-But what about the rest? Depending on the acceptance rate, some papers get in, other don't. 
+But what about the rest? Depending on the acceptance rate, some papers get in, others don't. 
 The acceptance rate has become a proxy for selectivity and prestigiousness, but in reality it is often random and more of a social process of the PC members. 
 (A couple of studies seem to confirm the random nature of PC decisions, cf. [NIPS experiment](http://blog.mrtz.org/2014/12/15/the-nips-experiment.html).)
 Another big downside of conferences is PC selection, which is also affected by social and sometimes also institutional processes and biases, in combination with scientist tendencies of being "experts" in all subfields of a certain field. 
-I have seen the most blatant mistakes from so-called "expert" reviews that are obviously and objectively false. Reviewers are also not accountable for writing bad reviews, meaning that there is no downside to writing bad reviews.
+I have seen the most blatant mistakes from so-called "expert" reviews that are obviously and objectively false.
+Reviewers are also not accountable for writing bad reviews, meaning that there is simply no downside to writing bad reviews.
 
 ### Goodhart's law
 Goodhart's law is also complicit. Scientists are smart people and will figure out a way to game the system. If the number of publications is relevant, they will figure out way to maximize publication count. Replace publications with any kind of goal, then that will be optimized for.
