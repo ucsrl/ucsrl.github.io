@@ -1,7 +1,7 @@
 # Boring Publications
 
 This short essay is a response to [Daniel Lemire's post](https://lemire.me/blog/2021/01/01/peer-reviewed-papers-are-getting-increasingly-boring/). 
-Originally, I intended for this to be quick tweet, but after line 35 of my response, I realized that it's  too long for Twitter and needs to be an essay on its own.
+Originally, I intended for this to be quick tweet, but after line 35 of my response, I realized that it's too long for Twitter and needs to be an essay on its own.
 
 ## Tl;dr
 Interesting read; I do have some reservations, though. Generally speaking, I see the same symptoms, but think the diagnosis is too simplistic to generalize over all science. 
@@ -13,27 +13,25 @@ Instead of the mono-causal need for "customers," I'd attest a melange of a varie
 ## Opposing view: Need for customers
 I am opposing the view that science *needs* to have a customer. There are practical fields, where this clearly is useful and reasonable.
 But there are also fields that are at odds with this requirement. Many subjects have theoretical fields, where there may not be a customer available right now. 
-A customer may emerge in 100 or 200 years in the future. To mandate a customer would effectively stifle 
-future research endeavors.
+A customer may emerge in 100 or 200 years in the future. To mandate a customer would effectively stifle future research endeavors.
 
 ## Multi-causal vs mono-causal
 
 ### Fashion
-Over the past ten years, I've often felt that parts of computer science I am familiar with have become increasingly fashion oriented.
+Over the past ten years, I've often felt that parts of computer science I am familiar with--programming languages and computer security--have become increasingly fashion oriented.
 Among the non-CS scientists I know, the feeling is pretty much the same.
 The fashion aspect in science is pervasive: it influences choice of topics, relative ranking of topics, being "first," importance of venues, and certainly a lot of other things. 
-The key downside of this fashion circus is that it often moves to fast for science to matter:
-When one gets past the low-hanging fruit and the fashion circuit moved elsewhere, what are you supposed to do?
-CS conferences need reconsideration, too. 
-I've always had the opinion that CS is *not* special and that the conference-focus is merely an artifact of its age. 
+The key downside of this fashion circus is that it often moves to fast for science to matter and/or mature: When one gets past the low-hanging fruit and the fashion circuit moved elsewhere, what are you supposed to do?
 
 ### Conferences
-Conferences also suffer from fashion-aspects, but the primary function of conferences seems to be\
-defunct. 
+CS conferences need reconsideration, too. 
+I've always had the opinion that CS is *not* special and that the conference-focus is merely an artifact of its age. 
+Conferences also suffer from fashion-aspects, but the primary function of conferences seems to be defunct. 
+
 When you take 100pct of the papers, probably half that are not a good fit (premature submission, subpar language, etc.) can be identified relatively quickly. 
 But what about the rest? Depending on the acceptance rate, some papers get in, other don't. 
 The acceptance rate has become a proxy for selectivity and prestigiousness, but in reality it is often random and more of a social process of the PC members. 
-(A couple of experiments seem to confirm the questionable function of PCs [NeurIPS].)
+(A couple of studies seem to confirm the random nature of PC decisions, cf. [NIPS experiment](http://blog.mrtz.org/2014/12/15/the-nips-experiment.html).)
 Another big downside of conferences is PC selection, which is also affected by social and sometimes also institutional processes and biases, in combination with scientist tendencies of being "experts" in all subfields of a certain field. 
 I have seen the most blatant mistakes from so-called "expert" reviews that are obviously and objectively false. Reviewers are also not accountable for writing bad reviews, meaning that there is no downside to writing bad reviews.
 
