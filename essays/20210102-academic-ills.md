@@ -80,7 +80,7 @@ By having two or three journals in a sub-field, one could focus on early-stage/p
 Goodhart's law ensures that this switch is not ideal and will also have downsides. 
 
 The alternative is to maintain the status quo.
-Whether this is wise or not, I do not know but have serous doubts; certainly, the choice is not up to me.
+Whether this is wise or not, I do not know but I have serous doubts; certainly, the choice is not up to me.
 I want to end on a positive note by quoting Einstein's definition of insanity:
 "*Doing the same thing over and over again and expecting different results.*" 
 
