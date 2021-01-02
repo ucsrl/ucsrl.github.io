@@ -21,25 +21,36 @@ To mandate a customer could effectively stifle future research endeavors.
 ## Multi-causal vs mono-causal
 
 ### Fashion
-Over the past ten years, I've often felt that parts of computer science I am familiar with---programming languages and computer security, both to a different degree---have been subjected to fashions.
+Over the past ten years, I've often felt that parts of computer science I am familiar with---programming languages and computer security, both to a varying degree---have been subjected to fashions.
 Among the non-CS scientists I know, the feeling is pretty much the same.
 The fashion aspect in science is pervasive: it influences choice of topics, relative ranking of topics, being "first," importance of venues, and certainly a lot of other things. 
 The key downside of this fashion circuit is that it often moves to fast for science to matter and/or mature: 
 When one gets past the low-hanging fruit and the fashion circuit moved elsewhere, what are you supposed to do?
 
 ### Conferences
-CS conferences need reconsideration, too. 
-I've always held the opinion that CS is *not* special and that the conference-focus is merely an artifact of its age. 
+Computer-science conferences need reconsideration, too. 
+I've always held the opinion that computer science is *not* special and that the conference-focus is merely an artifact of its age. 
 Conferences are also subject to fashion, but the major issue---in my opinion---is that the function of conferences seems to be defunct. 
 
-When you take 100pct of the papers, probably half that are not a good fit (premature submission, subpar language, etc.) can be identified relatively quickly. 
+When you take 100pct of the papers, probably half of which that are not a good fit (premature submission, wrong venue, subpar language, etc.) can be identified relatively quickly. 
 But what about the rest? Depending on the acceptance rate, some papers get in, others don't. 
 The acceptance rate has become a proxy for selectivity and prestigiousness, but in reality it is often random and more of a social process of the PC members. 
 (A couple of studies seem to confirm the random nature of PC decisions, cf. [NIPS experiment](http://blog.mrtz.org/2014/12/15/the-nips-experiment.html).)
+
 Another big downside of conferences is PC selection, which is also affected by social and sometimes also institutional processes and biases.
-In combination with scientist tendencies of being "experts" in all subfields of a certain field. 
+Large research centers often have substantial funding, but only for a given duration of a couple of years, after which they will be evaluated.
+Having multiple members of one such research center serve on a single programme committee could result in back channeling. 
+I have not heard about any such case, but it is clear that such a possibility exists and the only way to ensure that it doesn't is to prevent such PC configurations.
+
+From an individual perspective, reviewers often tend to comfortably rank themselves as experts, even when they only have passing familiarity in the actual field of expertise.
+I feel this is a clear case of [Hanlon's razor](), since I have not seen anybody doing it maliciously.
+Since reviewers are not accountable for writing bad reviews, there is simply no downside to writing bad reviews, and neither to consider oneself an expert when it is clearly not the case.
+
+
+<!--
+n combination with scientist tendencies of being "experts" in all subfields of a certain field. 
 I have seen the most blatant mistakes from so-called "expert" reviews that are obviously and objectively false.
-Reviewers are also not accountable for writing bad reviews, meaning that there is simply no downside to writing bad reviews.
+-->
 
 ### Goodhart's law
 Goodhart's law is also complicit. Scientists are smart people and will figure out a way to game the system. If the number of publications is relevant, they will figure out way to maximize publication count. Replace publications with any kind of goal, then that will be optimized for.
@@ -53,7 +64,8 @@ Another downside of systems research is that the community is often acting in a 
 Some people prefer to reject a great idea demonstrated in a sub-par implementation. 
 Others argue that implementation in framework A is stupid, and the authors should "in good taste" use framework B. 
 There are infinite ways of constructing such arguments, but the truth of the matter is: people tend to lose sight of the forrest for the trees. 
-A good idea with a shoddy implementation is much better than a shoddy idea with a good implementation. 
+A good idea with a shoddy implementation is much better than a shoddy idea with a good implementation.
+Insecure and overblown egos are damaging the field, alienating junior members and stifling systems research.
 
 # What are we to do?
 We need an environment conducive to and fostering research. Personally, I believe that we need to stop the nonsensical and gigantic waste of tax payer money to maintain the conference circuit that shows diminishing returns. 
