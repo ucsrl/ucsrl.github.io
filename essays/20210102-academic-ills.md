@@ -31,22 +31,26 @@ When one gets past the low-hanging fruit and the fashion circuit moved elsewhere
 ### Conferences
 Computer-science conferences need reconsideration, too. 
 I've always held the opinion that computer science is *not* special and that the conference-focus is merely an artifact of its age. 
-Conferences are also subject to fashion, but the major issue---in my opinion---is that the function of conferences seems to be defunct. 
+Conferences are also subject to fashion, but the major issue---in my opinion---is that the function of conferences seems to be defunct.
+A programme committee (PC) should accept papers in an objective, unbiased, and informed fashion.
 
 When you take 100pct of the papers, probably half of which that are not a good fit (premature submission, wrong venue, subpar language, etc.) can be identified relatively quickly. 
 But what about the rest? Depending on the acceptance rate, some papers get in, others don't. 
 The acceptance rate has become a proxy for selectivity and prestigiousness, but in reality it is often random and more of a social process of the PC members. 
 (A couple of studies seem to confirm the random nature of PC decisions, cf. [NIPS experiment](http://blog.mrtz.org/2014/12/15/the-nips-experiment.html).)
+The paper selection, thus, is not necessarily objective.
 
 Another big downside of conferences is PC selection, which is also affected by social and sometimes also institutional processes and biases.
 Large research centers often have substantial funding, but only for a given duration of a couple of years, after which they will be evaluated.
 Having multiple members of one such research center serve on a single programme committee could result in back channeling. 
 I have not heard about any such case, but it is clear that such a possibility exists and the only way to ensure that it doesn't is to prevent such PC configurations.
+The paper selection, thus, is not necessarily unbiased.
+
 
 From an individual perspective, reviewers often tend to comfortably rank themselves as experts, even when they only have passing familiarity in the actual field of expertise.
 I feel this is a clear case of [Hanlon's razor](), since I have not seen anybody doing it maliciously.
 Since reviewers are not accountable for writing bad reviews, there is simply no downside to writing bad reviews, and neither to consider oneself an expert when it is clearly not the case.
-
+The paper selection, thus, is not necessarily informed.
 
 <!--
 n combination with scientist tendencies of being "experts" in all subfields of a certain field. 
@@ -76,9 +80,9 @@ By having two or three journals in a sub-field, one could focus on early-stage/p
 Goodhart's law ensures that this switch is not ideal and will also have downsides. 
 
 The alternative is to maintain the status quo.
-Whether this is wise or not, I do not know. 
-What I do know, though, is that Einstein's famous definition of insanity applies:
+Whether this is wise or not, I do not know but have serous doubts; certainly, the choice is not up to me.
+I want to end on a positive note by quoting Einstein's definition of insanity:
 "*Doing the same thing over and over again and expecting different results.*" 
 
 
-(c) stefan brunthaler, 2021-01-02, 23:03
+(c) stefan brunthaler, 2021-01-02, 23:17
