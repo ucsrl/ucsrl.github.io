@@ -3,11 +3,20 @@
 This short essay is a response to Lemire's post. 
 Originally, I intended for this to be quick tweet, but after line 35 of my response, I realized that it's much too long for Twitter and would be much better served as an essay on its own.
 
+## Tl;dr
 Interesting read; I do have some reservations, though. Generally speaking, I see the same symptoms, but think the diagnosis is too simplistic to generalize over all science. 
 Instead of the mono-causal need for "customers," I'd attest a melange of a variety of shortcomings, which in combination lead to slow pace: 
 - fashion, 
 - conferences v. journals, and 
 - a good dose of Goodhart's law.
+
+## Opposing view: Need for customers
+I am opposing the view that science *needs* to have a customer. There are practical fields, where this clearly is useful and reasonable.\
+But there are also fields that are at odds with this requirement. Many subjects have theoretical fields, where there may not be a 
+customer available right now. A customer may emerge in 100 or 200 years in the future. To mandate a customer would effectively stifle 
+future research endeavors.
+
+## Multi-causal vs mono-causal
 
 Over the past ten years, I've often felt that parts of computer science I am familiar with have become increasingly fashion oriented.
 Among the non-CS scientists I know, the feeling is pretty much the same.
