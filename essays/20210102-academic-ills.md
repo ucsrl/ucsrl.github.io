@@ -48,7 +48,7 @@ The paper selection, thus, is not necessarily unbiased.
 
 
 From an individual perspective, reviewers often tend to comfortably rank themselves as experts, even when they only have passing familiarity in the actual field of expertise.
-I feel this is a clear case of [Hanlon's razor](), since I have not seen anybody doing it maliciously.
+I feel this is a clear case of [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor), since I have not seen anybody doing it maliciously.
 Since reviewers are not accountable for writing bad reviews, there is simply no downside to writing bad reviews, and neither to consider oneself an expert when it is clearly not the case.
 The paper selection, thus, is not necessarily informed.
 
@@ -61,9 +61,9 @@ I have seen the most blatant mistakes from so-called "expert" reviews that are o
 Goodhart's law is also complicit. Scientists are smart people and will figure out a way to game the system. If the number of publications is relevant, they will figure out way to maximize publication count. Replace publications with any kind of goal, then that will be optimized for.
 
 ### Perils of systems research
-[Michael Stonebraker](https://www.youtube.com/watch?v=DJFKl_5JTnA) summarized his "fears" for database research a couple of years ago, and I feel his diagnosis holds for systems research in general. 
+[Michael Stonebraker](https://www.youtube.com/watch?v=DJFKl_5JTnA) summarized his fears for database research a couple of years ago, and I feel his diagnosis holds for systems research in general. 
 I talked to several senior members of the PL community and they, too, confirmed that PLDI before the 00s was a lot more about ideas without a solid, industrial-strength implementation and full-blown evaluation. 
-Nowadays, a grad student has to implement something for two years to obtain interesting results, only to be shot down by a reviewer in what often appears to amount to less than one hour of work by a reviewer.
+Nowadays, a grad student has to implement something for two years to obtain interesting results, only to be shot down by a reviewer in what often appears to amount to less then a couple of work hours by a reviewer.
 
 Another downside of systems research is that the community is often acting in a self-destructive way.
 Some people prefer to reject a great idea demonstrated in a sub-par implementation. 
