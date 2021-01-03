@@ -1,3 +1,9 @@
+## Pro-Prologue, 2021-01-03
+The following essay has been on my homepage whilst being a postdoctoral scholar at University of California, Irvine. 
+Some of the data is outdated, some of the systems mentioned, too. 
+The affiliations of the early reviewers who provided valuable comments may be out of date, as well.
+I am putting this version online for historical reasons---the general point is, however, still valid.
+
 ### Prologue
 For the past years I have always wondered, why interpretation has such a bad
 reputation.
@@ -17,7 +23,7 @@ languages, such as Java, and give a complete account of the status-quo in
 interpretation---unfortunately, I currently do not have time to undertake such a
 resource-intensive endeavor.
 
-# Why interpreters matter (at least for high level programming languages)
+# Why interpreters matter (at least for high-level programming languages)
 
 In 1984 Peter Deutsch and Alan Schiffman published their landmark paper on the efficient
 implementation of the Smalltalk-80 system.
