@@ -4,7 +4,7 @@ Some of the data is outdated, some of the systems mentioned, too.
 The affiliations of the early reviewers who provided valuable comments may be out of date, as well.
 I am putting this version online for historical reasons---the general point is, however, still valid.
 
-**Slightly edited version of the original essay**
+**Slightly edited version of the original essay starts here!**
 
 ### Prologue
 For the past years I have always wondered, why interpretation has such a bad
