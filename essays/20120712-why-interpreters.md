@@ -4,6 +4,8 @@ Some of the data is outdated, some of the systems mentioned, too.
 The affiliations of the early reviewers who provided valuable comments may be out of date, as well.
 I am putting this version online for historical reasons---the general point is, however, still valid.
 
+**Slightly edited version of the original essay**
+
 ### Prologue
 For the past years I have always wondered, why interpretation has such a bad
 reputation.
@@ -172,11 +174,11 @@ In those systems, a so-called template JIT generates native machine code for eac
 function/method it encounters, i.e., the code is never interpreted.
 Consequently, this strategy requires more memory, as it generates native machine code
 for all functions directly.
-It would be interesting to give figures, unfortunately, I do not have any.
+It would be interesting to give figures; unfortunately, I do not have any.
 
 
 Summing up, I hope this essay dispenses the usual argument that interpreters are just
-slow and using a dynamic compilation subsystem is always better.
+slow and using a dynamic compilation subsystem is *always* better (i.e., unconditionally).
 There is indeed a sweet-spot for interpreters on the performance/price curve and
 interpretation frequently offers the following benefits:
 - ease of implementation, proportional maintenance costs,
@@ -217,3 +219,99 @@ interpreter"), it is at no point my intention to advocate my own work.
 
 
 ## References
+
+### Mike Pall
+Mike Pall is the implementer of the LuaJIT system. The quote comes from his
+discussion of LuaJIT 2, which is a tracing just-in-time compiler plus interpreter,
+i.e., a mixed-mode virtual machine.
+
+### Baseline
+Christian Wimmer mentioned that this is primarily an argument against baseline
+compilers (such as template JITs), and not against optimizing JIT compilers. This
+seems plausible (though I have not looked at the LuaJIT 1 source code), but I
+believe it does not affect the argument for interpreters and their optimization.
+
+### hsinterp
+Christian Wimmer pointed out that heavily optimized interpreters, such as the one in
+Sun’s HotSpot JVM, are not portable, as it consists of hand-tuned assembly
+instructions. This is obviously true. However, an interesting question is, whether
+porting these hand-written interpreters is compares favorably with the effort
+necessary to create a new backend.
+### Memory
+
+I received some comments on the abundance of memory in most devices which weakens
+the argument, since memory clearly cannot be an important consideration when you
+have enough of it. My personal view on this matter is, however, different: Having
+more memory translates to higher energy requirements. The relevant question is: What
+requires more energy, the interpreter or powering the additional memory? (I have not
+yet found a paper with a satisfactory answer.)
+
+
+### GCeval
+This is a pure black-box evaluation, i.e., it is entirely possible that some of the
+overheads correspond to differences in memory management (e.g., generational garbage
+collector vs. reference counting, which is well known to be space-conservative.)
+While this is true for all numbers, I think it is still illustrative, because a JIT
+compiler usually requires a more "spacious" memory management technique, i.e., I
+have never seen a dynamic compilation subsystem using immediate reference
+counting. In addition, there are other factors in the mix, such as difference in
+object layout, libraries, internals (such as different String representation, etc.)
+Since I do not have corresponding data available, I cannot quantify how these
+factors skew the results in either direction.
+
+Furthermore, my evaluation uses a modified nanobench testing program, i.e., timing
+includes warm-up times and JIT compilation times. Therefore, because some of the
+arguments are rather small, it might very well be that the benefits of running JIT
+compiled code are probably not always visible. This is, however, irrelevant, as the
+numbers primarily demonstrate memory consumption.
+
+
+### JITs
+
+It is very well possible that with the arguments chosen, the benefits of JIT
+compilation cannot be reaped accordingly, e.g., the profiling plus code generation
+takes longer (latency) than the execution in the interpreter. In fact, for
+binarytrees I did a quick check on my machine with the argument 16 and found that
+PyPy 1.8 is 2.6 times faster than the optimized interpreter (just using the “time”
+command line utility), for the argument 500 spectralnorm is about 1.74 times faster
+than the optimized interpreter (again using the “time” program.) It goes without
+saying that I did not select arguments to display this effect intentionally. In
+fact, I think this could be an indicator for applications where JITing is strictly
+superior to interpreting (such as long running desktop software.)
+
+### Libs
+Michael Bebenita pointed out that this essentially reduces to calling a library
+function to implement the functionality. It is true that an interpreter would have
+to do this, too, but if most of the computational time is spent in library code that
+is not inline-able by a just-in-time compiler, the corresponding optimization
+potential is lower and therefore interpretation and just-in-time compilation seem
+"equal" w.r.t. achievable performance.
+
+### Java
+Comparable data for Java-based systems would be very interesting for comparison
+purposes. Unfortunately, no such data are available to me but would be highly
+relevant and surely interesting.
+
+Furthermore, my data collection cannot pinpoint whether the overhead is due to the
+actual JIT compiler caching code, or due to overhead in the memory subsystem.
+People may argue that for the JIT compiler to unfold its performance potential it
+cannot use reference counting for memory management and therefore the JIT compiler
+uses more memory, e.g., to accommodate multiple generations, etc.
+A direct consequence of this line of thinking is that if I valued space efficiency
+over performance, an interpreter using reference counting might be beat any dynamic
+compilation subsystem.
+
+### Webcmp
+
+Christian Wimmer remarked that for Java like systems the memory consumption of a
+JITed system might very well be lower than for an interpreter, primarily due to
+beneficial effects of inlining and escape analysis. In addition, compiled code
+scales better than interpreted code and additional memory consumption is only
+necessary during compilation. These are reasonable remarks, and I cannot comment on
+the situation for dynamically typed programming languages used in that scenario (as
+I have no comparable data.)
+### LLwa
+Mason Chang mentioned that the big players in the field (Google, Facebook, etc.)
+could not care less about the complexity and money involved, as the performance
+improvement translates directly into benefits. This is certainly true, on the other
+hand I believe that there are many companies who cannot rely on the same economics.
