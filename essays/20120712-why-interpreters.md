@@ -250,7 +250,7 @@ yet found a paper with a satisfactory answer.)
 ### GCeval
 This is a pure black-box evaluation, i.e., it is entirely possible that some of the
 overheads correspond to differences in memory management (e.g., generational garbage
-collector vs. reference counting, which is well known to be space-conservative.)
+collector vs. reference counting, which is well known to be space-efficient.)
 While this is true for all numbers, I think it is still illustrative, because a JIT
 compiler usually requires a more "spacious" memory management technique, i.e., I
 have never seen a dynamic compilation subsystem using immediate reference
