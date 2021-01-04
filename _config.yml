@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 title: μ-site
-description: Site of μCSRL
 
 github:
   is_project_page: false
