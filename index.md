@@ -30,8 +30,23 @@ The following essays are available:
 - [Why interpreters matter (at least for high abstraction level languages)](essays/20120712-why-interpreters.md)
 
 
-## Source Code
+## Publications
+* [R2C: AOCR-Resilient Diversity with Reactive and Reflective Camouflage](publications/r2c-eurosys23.pdf)
+  
+  Felix Berlakovich, Stefan Brunthaler.
+  
+  In **Eurosys '23**: Proceedings of the Eighteenth European Conference on Computer Systems ([source](https://github.com/ucsrl/r2c-llvm), [artifact](https://doi.org/10.5281/zenodo.7728972))
 
-## Repositories
+* [Look Ma, no constants: practical constant blinding in GraalVM](publications/constant-blinding-eurosec22.pdf)
+
+  Felix Berlakovich, Matthias Neugschwandtner, Gergö Barany.
+
+  In **EuroSec '22**: Proceedings of the 15th European Workshop on Systems Security
+
+* [Towards efficient and verified virtual machines for dynamic languages](publications/verified-machines-cpp21.pdf)
+
+  Martin Desharnais, Stefan Brunthaler.
+
+  In **CPP '21**: Proceedings of the 10th ACM SIGPLAN International Conference on Certified Programs and Proofs
 
 ## Presentations
