@@ -8,11 +8,13 @@
 2023-11-02  Euro S&P 2024 1/1           July 8-12, Vienna, Austria
 2023-11-16  PLDI 2024                   ?
 2023-11-23  ASPLOS 2024 3/3             San Diego, USA
+2023-12-06  DIMVA 2024                  Jul 17-19, Lausanne, Switzerland
 2023-12-06  S&P (Oakland) 2024 3/3      May 20-23, San Francisco, USA
 2023-12-07  AsiaCCS 2024 2/2            Jul 1-5, Singapore
 2023-12-15  ECOOP/ISSTA 2024 1/2        Sep 16-20, Vienna, Austria
 2024-02-03  CSF 2024 3/3                Jul 8-12, Enschede, The Netherlands
 2024-02-08  USENIX Sec 2024 3/3         Aug 14-16, Philadelphia, USA
+2024-02-14  DIMVA 2024                  Jul 17-19, Lausanne, Switzerland
 2024-03-01  Journal of Systems Research -
 2024-04-05  SPLASH/OOPSLA 2024 2/2      ?
 2024-04-12  ECOOP/ISSTA 2024 2/2        Sep 16-20, Vienna, Austria
@@ -20,5 +22,4 @@
 2024-08-01  Journal of Systems Research -
 2024-10-01  Journal of Systems Research -
 ?           CCS 2024                    ?
-?           DIMVA 2024                  ?
 ?           WOOT 2024                   ?
