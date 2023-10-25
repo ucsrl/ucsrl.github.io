@@ -1,9 +1,3 @@
-2023-09-01  CGO 2024 2/2                Mar 2-6, Edinburgh, UK
-2023-09-30  CSF 2024 2/3                Jul 8-12, Enschede, The Netherlands
-2023-10-01  Journal of Systems Research -
-2023-10-12  ETAPS 2024                  Apr 6-11, Luxembourg, Luxembourg
-2023-10-17  USENIX Sec 2024 2/3         Aug 14-16, Philadelphia, USA
-2023-10-19  EuroSys 2024 2/2            Apr 22-25, Athens, Greece
 2023-10-27  SPLASH/OOPSLA 2024 1/2      ?
 2023-11-02  Euro S&P 2024 1/1           July 8-12, Vienna, Austria
 2023-11-16  PLDI 2024                   ?
@@ -23,3 +17,9 @@
 2024-10-01  Journal of Systems Research -
 ?           CCS 2024                    ?
 ?           WOOT 2024                   ?
+?           CGO 2025                    ?
+?           ETAPS 2025                  ?
+?           EuroSys 2025                ?
+?           ASPLOS 2025                 ?
+?           ICSE 2025                   ?
+?           NDSS 2025                   ?
