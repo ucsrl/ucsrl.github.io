@@ -1,5 +1,3 @@
-2023-10-27  SPLASH/OOPSLA 2024 1/2      ?
-2023-11-02  Euro S&P 2024 1/1           July 8-12, Vienna, Austria
 2023-11-16  PLDI 2024                   ?
 2023-11-23  ASPLOS 2024 3/3             San Diego, USA
 2023-12-06  DIMVA 2024                  Jul 17-19, Lausanne, Switzerland
@@ -10,16 +8,18 @@
 2024-02-08  USENIX Sec 2024 3/3         Aug 14-16, Philadelphia, USA
 2024-02-14  DIMVA 2024                  Jul 17-19, Lausanne, Switzerland
 2024-03-01  Journal of Systems Research -
+2024-03-15  ICSE 2025                   Apr 26-4, Ottawa, Canada
 2024-04-05  SPLASH/OOPSLA 2024 2/2      ?
 2024-04-12  ECOOP/ISSTA 2024 2/2        Sep 16-20, Vienna, Austria
 2024-05-01  Journal of Systems Research -
 2024-08-01  Journal of Systems Research -
 2024-10-01  Journal of Systems Research -
+?           ASPLOS 2025                 ?
+?           CC 2025                     ?
 ?           CCS 2024                    ?
-?           WOOT 2024                   ?
 ?           CGO 2025                    ?
 ?           ETAPS 2025                  ?
+?           Euro S&P 2025               ?
 ?           EuroSys 2025                ?
-?           ASPLOS 2025                 ?
-?           ICSE 2025                   ?
 ?           NDSS 2025                   ?
+?           WOOT 2024                   ?
