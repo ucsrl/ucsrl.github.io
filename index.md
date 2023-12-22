@@ -44,6 +44,8 @@ The following essays are available:
  Martin Desharnais, Stefan Brunthaler.\
  In **CPP '21**: Proceedings of the 10th ACM SIGPLAN International Conference on Certified Programs and Proofs
 
+[Full list of publications](publications/)
+
 ## Presentations
 
 * [Multi-Level Quickening (Invited talk, University of Kent, 2021)](https://www.youtube.com/watch?v=Ww59mOcrfzc&pp=ygURc3RlZmFuIGJydW50aGFsZXI%3D)
