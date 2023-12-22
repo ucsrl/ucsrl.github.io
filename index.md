@@ -1,6 +1,6 @@
 # Welcome to the official blog of [μCSRL](https://www.unibw.de/ucsrl-en)!
 
-The [Munich Computer System Research Laboratory](https://www.unibw.de/ucsrl-en), μCSRL for short, is a research lab at the [National Cyber Defense Research Institute CODE](https://www.unibw.de/code) at the [Universitaet der Bundeswehr, Munich](https://www.unibw.de), directed by Stefan Brunthaler.
+The [Munich Computer System Research Laboratory](https://www.unibw.de/ucsrl-en), μCSRL for short, is a research lab at the [National Cyber Defense Research Institute CODE](https://www.unibw.de/code) at the [Universität der Bundeswehr, München](https://www.unibw.de), directed by Stefan Brunthaler.
 This web page hosts all public artifacts of the research group, including blog posts, essays, source code, and tools.
 
 ## Research
@@ -44,3 +44,6 @@ The following essays are available:
  In **CPP '21**: Proceedings of the 10th ACM SIGPLAN International Conference on Certified Programs and Proofs
 
 ## Presentations
+
+* [Multi-Level Quickening (Invited talk, University of Kent, 2021)](https://www.youtube.com/watch?v=Ww59mOcrfzc&pp=ygURc3RlZmFuIGJydW50aGFsZXI%3D)
+* [MAD: Memory Allocation meets Software Diversity (DRAMSec, 2021)](https://www.youtube.com/watch?v=WsoOpLv7i18&pp=ygURc3RlZmFuIGJydW50aGFsZXI%3D)
