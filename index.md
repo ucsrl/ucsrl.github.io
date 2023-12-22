@@ -33,7 +33,8 @@ The following essays are available:
 ## Publications
 * [R2C: AOCR-Resilient Diversity with Reactive and Reflective Camouflage](publications/r2c-eurosys23.pdf)\
   Felix Berlakovich, Stefan Brunthaler.\
-  In **Eurosys '23**: Proceedings of the Eighteenth European Conference on Computer Systems ([source](https://github.com/ucsrl/r2c-llvm), [artifact](https://doi.org/10.5281/zenodo.7728972))
+  In **EuroSys '23**: Proceedings of the Eighteenth European Conference on Computer Systems ([source](https://github.com/ucsrl/r2c-llvm), [artifact](https://doi.org/10.5281/zenodo.7728972))
+  **Note**: This paper extends prior work of the Readactor system to mitigate AOCR and PIROP attacks.
 
 * [Look Ma, no constants: practical constant blinding in GraalVM](publications/constant-blinding-eurosec22.pdf)\
   Felix Berlakovich, Matthias Neugschwandtner, Gergö Barany.\
