@@ -1,10 +1,10 @@
 # Welcome to the official blog of [μCSRL](https://www.unibw.de/ucsrl-en)!
 
-The [Munich Computer System Research Laboratory](https://www.unibw.de/ucsrl-en), μCSRL for short, is a new research lab at the [National Cyber Defense Research Institute CODE](https://www.unibw.de/code) at the [Universitaet der Bundeswehr, Munich](https://www.unibw.de), directed by Stefan Brunthaler.
+The [Munich Computer System Research Laboratory](https://www.unibw.de/ucsrl-en), μCSRL for short, is a research lab at the [National Cyber Defense Research Institute CODE](https://www.unibw.de/code) at the [Universitaet der Bundeswehr, Munich](https://www.unibw.de), directed by Stefan Brunthaler.
 This web page hosts all public artifacts of the research group, including blog posts, essays, source code, and tools.
 
 ## Research
-As of Q2 2022, μCSRL conducts the following research projects.
+As of Q4 2023, μCSRL conducts the following research projects.
 
 ### μ-fuzz
 Bundles our research activities in automated vulnerability identification via *fuzzing*.
