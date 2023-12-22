@@ -18,6 +18,7 @@ Full list of publications, grouped by journals/conferences.
 1. G. Savrun-Yeni¸ceri, W. Zhang, H. Zhang, E. Seckler, C. Li, S. Brunthaler, P. Larsen, and M. Franz. (Efficient Hosted Interpreters on the JVM)[taco13.pdf]. In ACM Transactions on Architecture and Code Optimization 11.1 (2014), 9:1–9:24.
 1. P. Larsen, S. Brunthaler, and M. Franz. *Security Through Diversity: Are We There Yet?* In IEEE Security & Privacy Magazine 12.2 (2014), pp. 28–35.
 1. C. Kerschbaumer, E. Hennigan, P. Larsen, S. Brunthaler, and M. Franz. (Information Flow Tracking meets Just-In-Time Compilation)[taco14.pdf]. In ACM Transactions on Architecture and Code Optimization 10.4 (2013). Presented at HiPEAC’14 in Vienna, Austria, 38:1–38:25.
+{: reversed="reversed"}
 
 ## Reviewed Conference and Journal Papers
 1. F. Berlakovich and S. Brunthaler. *R2C: AOCR-Resilient Diversity with Reactive and Reflective Camouflage*. In EuroSys ’23: Eighteenth European Conference on Computer Systems, Rome, Italy, April 5 - 8, 2022. Ed. by A. Fedorova and D. Narayanan.
@@ -51,7 +52,7 @@ Full list of publications, grouped by journals/conferences.
 1. S. Brunthaler. (Inline Caching meets Quickening)[ecoop10.pdf]. In Proceedings of the 24th European Conference on Object-Oriented Programming, Maribor, Slovenia, June 21-25, 2010 (ECOOP ’10). Vol. 6183/2010. Lecture Notes in Computer Science. Springer, 2010, pp. 429–451.
 1. S. Brunthaler. (Efficient Inline Caching without Dynamic Translation)[sac10.pdf]. In Proceedings of the 2010 ACM Symposium on Applied Computing, Sierre, Switzerland, March 22-26, 2010 (SAC ’10). Sierre, Switzerland: ACM, 2010, pp. 2155–2156.
 1. S. Brunthaler. (Virtual-Machine Abstraction and Optimization Techniques)[bytecode09.pdf]. In Proceedings of the 4th International Workshop on Bytecode Semantics, Verification, Analysis and Transformation, York, United Kingdom, March 29, 2009 (BYTECODE ’09). Vol. 253(5). Electronic Notes in Theoretical Computer Science. York, United Kingdom: Elsevier, 2009, pp. 3–14.
-
+{: reversed="reversed"}
 
 ## Misc. 
 
