@@ -1,25 +1,36 @@
-2023-11-16  PLDI 2024                   ?
-2023-11-23  ASPLOS 2024 3/3             San Diego, USA
-2023-12-06  DIMVA 2024                  Jul 17-19, Lausanne, Switzerland
-2023-12-06  S&P (Oakland) 2024 3/3      May 20-23, San Francisco, USA
-2023-12-07  AsiaCCS 2024 2/2            Jul 1-5, Singapore
-2023-12-15  ECOOP/ISSTA 2024 1/2        Sep 16-20, Vienna, Austria
+2024-01-28  CCS 2024                    Oct 14-18, Salt Lake City, USA
 2024-02-03  CSF 2024 3/3                Jul 8-12, Enschede, The Netherlands
 2024-02-08  USENIX Sec 2024 3/3         Aug 14-16, Philadelphia, USA
 2024-02-14  DIMVA 2024                  Jul 17-19, Lausanne, Switzerland
+2024-02-28  ICFP 2024                   Sep 2-7, Milan, Italy
 2024-03-01  Journal of Systems Research -
+2024-03-12  WOOT 2024                   Aug 12-13, Philadelphia, USA
 2024-03-15  ICSE 2025                   Apr 26-4, Ottawa, Canada
-2024-04-05  SPLASH/OOPSLA 2024 2/2      ?
+2024-04-04  ICSME 2024                  Oct 6-11, Flagstaff, USA
+2024-04-05  SPLASH/OOPSLA 2024 2/2      Oct 20-25, Pasadena, USA
 2024-04-12  ECOOP/ISSTA 2024 2/2        Sep 16-20, Vienna, Austria
+2024-04-14  CCS 2024                    Oct 14-18, Salt Lake City, USA
 2024-05-01  Journal of Systems Research -
+2024-05-31  ASE 2024                    Oct 27 - Nov 1 Sacamento, USA
 2024-08-01  Journal of Systems Research -
 2024-10-01  Journal of Systems Research -
+?           ACSAC 2024                  Dec 8-13, Waikiki, Hawaii
 ?           ASPLOS 2025                 ?
+?           AsiaCCS 2025                ?
 ?           CC 2025                     ?
-?           CCS 2024                    ?
 ?           CGO 2025                    ?
+?           DIMVA 2025                  ?
 ?           ETAPS 2025                  ?
 ?           Euro S&P 2025               ?
 ?           EuroSys 2025                ?
+?           FSE 2025                    ?
+?           ICSA 2025                   ?
+?           ICSME 2025                  Sep 8-13, Auckland, New Zealand
+?           ICST 2025                   ?
+?           IFL 2024                    Aug 27-29, Sussex, England
 ?           NDSS 2025                   ?
-?           WOOT 2024                   ?
+?           PLDI 2025                   ?
+?           POPL 2025                   ?
+?           RAID 2024                   ?
+?           S&P (Oakland) 2025          ?
+?           SANER 2025                  ?
