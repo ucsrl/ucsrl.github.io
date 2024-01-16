@@ -2,6 +2,7 @@
 2024-02-03  CSF 2024 3/3                Jul 8-12, Enschede, The Netherlands
 2024-02-08  USENIX Sec 2024 3/3         Aug 14-16, Philadelphia, USA
 2024-02-14  DIMVA 2024                  Jul 17-19, Lausanne, Switzerland
+2024-02-18  European LISP Symposium     May 6-7, Vienna, Austria
 2024-02-28  ICFP 2024                   Sep 2-7, Milan, Italy
 2024-03-01  Journal of Systems Research -
 2024-03-12  WOOT 2024                   Aug 12-13, Philadelphia, USA
