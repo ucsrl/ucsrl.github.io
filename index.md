@@ -34,6 +34,13 @@ We examine novel techniques in decompiling programs, i.e., the process of produc
 ### μ-python
 Bundles our research activities in *interpreter optimization*.
 Our present research efforts deal with purely-interpretative optimizations, i.e., trying to avoid dynamic code generation altogether.
+The key insight of Prof. Brunthaler's work from 2010 until 2014 was that an interpreter can do pretty much the same things as a JIT compiler.
+A series of optimizations addressed various shortcomings in isolation, such as providing type feedback via inline caching, or eliminating reference count operations.
+Later on, these techniques were combined to also eliminate the overhead of operating on boxed objects (see [Multi-Level Quickening](https://arxiv.org/pdf/2109.02958.pdf)).
+Multi-level quickening provided substantial speedups of up to 5.5x, but did not convince the reviewers in 2012, 2013, and 2014. 
+
+At present, Python adopted the former optimization techniques, i.e., the quickening-based inline caching, since version 3.10, and will adopt the latter technique in future versions. 
+As a result, this line of research, although academically unsuccessful, is used by millions of people on a daily basis.
 
 
 ## Essays
