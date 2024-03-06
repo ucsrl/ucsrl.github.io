@@ -4,7 +4,7 @@ The [Munich Computer System Research Laboratory](https://www.unibw.de/ucsrl-en),
 This web page hosts all public artifacts of the research group, including blog posts, essays, source code, and tools.
 
 ## Research
-As of Q4 2023, μCSRL conducts the following research projects.
+As of Q1 2024, μCSRL conducts the following research projects.
 
 ### μ-fuzz
 Bundles our research activities in automated vulnerability identification via *fuzzing*.
@@ -14,7 +14,19 @@ To support this project, we have a state-of-the-art fuzzing cluster with 1,200+ 
 ### μ-proteus
 Bundles our research activities in software diversification. Our recent milestones include:
 - New defense against Address-Oblivious Code Reuse (AOCR) through novel diversification techniques that prevent the code harvesting stage of the attack.
-- New defense against Counterfeit-Object Oriented Programming (COOP) through new spatial diversification techniques.
+  [R2C: AOCR-Resilient Diversity with Reactive and Reflective Camouflage](publications/r2c-eurosys23.pdf)
+- New defense against Counterfeit-Object Oriented Programming (COOP) through new spatial diversification techniques. *Submitted for publication*.
+
+#### Leakage-resilient Diversity
+The goal of this line of research is to mitigate advanced code-reuse attacks, such as both direct and indirect JIT-ROP, COOP, AOCR, and PIROP.
+Broadly speaking, the idea is to combine software diversity with so-called, *execute-only memory* (XOM).
+Prof. Brunthaler co-authored one of the most highly cited articles in this area, called [Readcator](publications/sp15.pdf), which used the first hardware-supported XOM with advanced code diversification, including *code-pointer hiding*.
+Due to emergent security problems of code-pointer hiding, which resulted in the Address-Oblivious Code Reuse (AOCR) attack, our research group continued improving diversification techniques to mitigate even the most-advanced code reuse attacks.
+In 2023, we were able to publish this defense, [R2C - Reactive and Reflective Camouflage](publications/r2c-eurosys23.pdf), which to the best of our knowledge, is the only effective and efficient defense to date.
+
+#### Versatile Diversity
+Besides code-reuse attacks, we published the first paper aimed at preventing Rowhammer attacks with principles underlying software diversity.
+Similarly, we published a defense against timing-based cache side-channels through our discovery of a new defense called *control-flow diversity*.
 
 ### μ-dc
 We examine novel techniques in decompiling programs, i.e., the process of producing source code from programs in binary form.
