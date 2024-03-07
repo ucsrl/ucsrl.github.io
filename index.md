@@ -5,13 +5,15 @@ This web page hosts all public artifacts of the research group, including blog p
 
 ## Research
 As of Q1 2024, μCSRL conducts the following research projects.
+We have been quite active over the past couple of years and thus expect to publish multiple papers in 2024.
 
-### μ-fuzz
+
+### *Fuzzing*: μ-fuzz
 Bundles our research activities in automated vulnerability identification via *fuzzing*.
 Our objective for this project is the investigation of combinatorial optimization of fuzzing on clusters.
 To support this project, we have a state-of-the-art fuzzing cluster with 1,200+ CPUs.
 
-### μ-proteus
+### *Language-based Security -- Software Diversity*: μ-proteus
 Bundles our research activities in software diversification. Our recent milestones include:
 - New defense against Address-Oblivious Code Reuse (AOCR) through novel diversification techniques that prevent the code harvesting stage of the attack.
   [R2C: AOCR-Resilient Diversity with Reactive and Reflective Camouflage](publications/r2c-eurosys23.pdf)
@@ -28,32 +30,28 @@ In 2023, we were able to publish this defense, [R2C - Reactive and Reflective Ca
 Besides code-reuse attacks, we published the first paper aimed at preventing Rowhammer attacks with principles underlying software diversity.
 Similarly, we published a defense against timing-based cache side-channels through our discovery of a new defense called *control-flow diversity*.
 
-### μ-dc
+### *Decompilation*: μ-dc
 We examine novel techniques in decompiling programs, i.e., the process of producing source code from programs in binary form.
 
-### μ-python
+### *Interpreter Optimization*: μ-python
 Bundles our research activities in *interpreter optimization*.
 Our present research efforts deal with purely-interpretative optimizations, i.e., trying to avoid dynamic code generation altogether.
 The key insight of Prof. Brunthaler's work from 2010 until 2014 was that an interpreter can do pretty much the same things as a JIT compiler.
-A series of optimizations addressed various shortcomings in isolation, such as providing type feedback via inline caching, or eliminating reference count operations.
+A series of optimizations addressed various shortcomings in isolation, such as providing [type feedback via inline caching](publications/ecoop10.pdf), or eliminating [reference count operations](publicatns/dls10.pdf).
 Later on, these techniques were combined to also eliminate the overhead of operating on boxed objects (see [Multi-Level Quickening](https://arxiv.org/pdf/2109.02958.pdf)).
-Multi-level quickening provided substantial speedups of up to 5.5x, but did not convince the reviewers in 2012, 2013, and 2014. 
+Multi-level quickening provided substantial speedups of up to 5.5x, but did not convince the reviewers in 2012, 2013, and 2014.
 
-At present, Python adopted the former optimization techniques, i.e., the quickening-based inline caching, since version 3.10, and will adopt the latter technique in future versions. 
+At present, Python adopted the former optimization techniques, i.e., the quickening-based inline caching, since version 3.10, and will adopt the latter technique in future versions.
 As a result, this line of research, although academically unsuccessful, is used by millions of people on a daily basis.
 
-
-## Essays
-The following essays are available:
-- [Triaging Boring Publications, a response to Daniel Lemire's post](essays/20210102-academic-ills.md)
-- [Why interpreters matter (at least for high abstraction level languages)](essays/20120712-why-interpreters.md)
 
 
 ## Recent Publications
 * [R2C: AOCR-Resilient Diversity with Reactive and Reflective Camouflage](publications/r2c-eurosys23.pdf)\
   Felix Berlakovich, Stefan Brunthaler.\
   In **EuroSys '23**: Proceedings of the Eighteenth European Conference on Computer Systems ([source](https://github.com/ucsrl/r2c-llvm), [artifact](https://doi.org/10.5281/zenodo.7728972))\
-  **Note**: This paper extends prior work of the Readactor system to mitigate AOCR and PIROP attacks.
+  **Note**: This paper extends prior work of the Readactor system to mitigate AOCR and PIROP attacks.\
+  (*Acceptance rate: 16.2%*)
 
 * [Look Ma, no constants: practical constant blinding in GraalVM](publications/constant-blinding-eurosec22.pdf)\
   Felix Berlakovich, Matthias Neugschwandtner, Gergö Barany.\
@@ -69,3 +67,8 @@ The following essays are available:
 
 * [Multi-Level Quickening (Invited talk, University of Kent, 2021)](https://www.youtube.com/watch?v=Ww59mOcrfzc&pp=ygURc3RlZmFuIGJydW50aGFsZXI%3D)
 * [MAD: Memory Allocation meets Software Diversity (DRAMSec, 2021)](https://www.youtube.com/watch?v=WsoOpLv7i18&pp=ygURc3RlZmFuIGJydW50aGFsZXI%3D)
+
+## Essays
+The following essays are available:
+- [Triaging Boring Publications, a response to Daniel Lemire's post](essays/20210102-academic-ills.md)
+- [Why interpreters matter (at least for high abstraction level languages)](essays/20120712-why-interpreters.md)
