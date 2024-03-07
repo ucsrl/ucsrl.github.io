@@ -30,6 +30,11 @@ In 2023, we were able to publish this defense, [R2C - Reactive and Reflective Ca
 Besides code-reuse attacks, we published the first paper aimed at preventing Rowhammer attacks with principles underlying software diversity.
 Similarly, we published a defense against timing-based cache side-channels through our discovery of a new defense called *control-flow diversity*.
 
+### *Supply-Chain Attacks*: μ-c
+We are actively investigating how to address supply-chain attacks at compile time through developing our own compiler infrastructure.
+This compiler combines our state-of-the-art software diversification techniques and offers support for C and multiple backends.
+
+
 ### *Decompilation*: μ-dc
 We examine novel techniques in decompiling programs, i.e., the process of producing source code from programs in binary form.
 
