@@ -8,10 +8,10 @@ Full list of publications, grouped by journals/conferences.
   Dissertation, TU Wien, 2011.
 
 ## Unreviewed Manuscripts
-1. S. Brunthaler: [Multi-Level Quickening: Ten Years After](https://arxiv.org/pdf/2109.02958.pdf). Arxiv. 
+1. S. Brunthaler: [Multi-Level Quickening: Ten Years After](https://arxiv.org/pdf/2109.02958.pdf). Arxiv.
 
 ## Reviewed Journal Papers
-1. N. Burow, S. A. Carr, J. Nash, P. Larsen, M. Franz, S. Brunthaler, and M. Payer. *Control-Flow Integrity: Precision, Security, and Performance*. In ACM Computing Surveys 50.1 (2017), pp. 1–33. 
+1. N. Burow, S. A. Carr, J. Nash, P. Larsen, M. Franz, S. Brunthaler, and M. Payer. [Control-Flow Integrity: Precision, Security, and Performance](https://arxiv.org/pdf/1602.04056). In ACM Computing Surveys 50.1 (2017), pp. 1–33.
 1. G. Wagner, P. Larsen, S. Brunthaler, and M. Franz. Thinking Inside the Box. In ACM Transactions on Programming Languages and Systems 38.3 (2016), pp. 1–37.
 1. P. Larsen, S. Brunthaler, and M. Franz. *Automatic Software Diversity*. In IEEE Security & Privacy Magazine 13.2 (2015), pp. 30–37.
 1. A. Homescu, T. Jackson, S. J. Crane, S. Neisius, S. Brunthaler, P. Larsen, and M. Franz. [Large-scale Automated Software Diversity—Program Evolution Redux](tdsc15.pdf). In IEEE Transactions on Dependable and Secure Computing PP.99 (2015).
@@ -21,10 +21,11 @@ Full list of publications, grouped by journals/conferences.
 {: reversed="reversed"}
 
 ## Reviewed Conference and Journal Papers
-1. F. Berlakovich and S. Brunthaler. *R2C: AOCR-Resilient Diversity with Reactive and Reflective Camouflage*. In EuroSys ’23: Eighteenth European Conference on Computer Systems, Rome, Italy, April 5 - 8, 2022. Ed. by A. Fedorova and D. Narayanan.
-1. M. Wiesinger, D. Dorfmeister, and S. Brunthaler. *MAD: Memory Allocation Diversity*. In 1st Workshop on DRAM Security (DRAMSec), co-located with ISCA 2021, Virtual Event, June 17, 2021.
+1. F. Berlakovich and S. Brunthaler. [R2C: AOCR-Resilient Diversity with Reactive and Reflective Camouflage](r2c-eurosys23.pdf). In EuroSys ’23: Eighteenth European Conference on Computer Systems, Rome, Italy, April 5 - 8, 2022. Ed. by A. Fedorova
+   and D. Narayanan. (*Acceptance rate 16.2%*)
+1. M. Wiesinger, D. Dorfmeister, and S. Brunthaler. [MAD: Memory Allocation Diversity](dramsec21.pdf). In 1st Workshop on DRAM Security (DRAMSec), co-located with ISCA 2021, Virtual Event, June 17, 2021.
 1. M. Desharnais and S. Brunthaler. [Towards efficient and verified virtual machines for dynamic languages](cpp21.pdf). In CPP ’21: 10th ACM SIGPLAN International Conference on Certified Programs and Proofs, Virtual Event, Denmark, January 17-19, 2021. Ed. by C. Hritcu and A. Popescu. ACM, 2021, pp. 61–75.
-1. M. Desharnais and S. Brunthaler. A Generic Framework for Verified Compilers Using Isabelle/HOL’s Locales. In 31es Journ´ees Francophones des Langages Applicatifs (JFLA), Gruissan, France, January 29–February 1st, 2020.
+1. M. Desharnais and S. Brunthaler. [A Generic Framework for Verified Compilers Using Isabelle/HOL’s Locales](jfla20.pdf). In 31es Journ´ees Francophones des Langages Applicatifs (JFLA), Gruissan, France, January 29–February 1st, 2020.
 1. M. Qunaibit, S. Brunthaler, Y. Na, S. Volckaert, and M. Franz. [Accelerating Dynamically-Typed Languages on Heterogeneous Platforms Using Guards Optimization](ecoop18.pdf). In Proceedings of the 32nd European Conference on Object-Oriented Programming, Amsterdam, The Netherlands, July 16-21, 2018 (ECOOP ’18). Vol. 109. LIPIcs. Springer, 2018, 16:1–16:29.
 1. S. Neuner, A. G. Voyiatzis, M. Schmiedecker, S. Brunthaler, S. Katzenbeisser, and E. R. Weippl. [Time is on my side: Steganography in filesystem metadata](dfrws16.pdf). In Proceedings of the 16th Annual USA Digital Forensics Research Conference (DFRWS ’16). 2016, pp. 76–86.
 1. C. Kerschbaumer, S. Stamm, and S. Brunthaler. [Injecting CSP for Fun and Security](icissp16.pdf). In Proceedings of the 2nd International Conference on Information Systems Security and Privacy, Rome, Italy, 2016. (*Best paper award**).
@@ -55,5 +56,4 @@ Full list of publications, grouped by journals/conferences.
 1. S. Brunthaler. [Virtual-Machine Abstraction and Optimization Techniques](bytecode09.pdf). In Proceedings of the 4th International Workshop on Bytecode Semantics, Verification, Analysis and Transformation, York, United Kingdom, March 29, 2009 (BYTECODE ’09). Vol. 253(5). Electronic Notes in Theoretical Computer Science. York, United Kingdom: Elsevier, 2009, pp. 3–14.
 {: reversed="reversed"}
 
-## Misc. 
-
+## Misc.
