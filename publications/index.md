@@ -2,14 +2,6 @@
 
 Full list of publications, grouped by journals/conferences.
 
-## Theses
-* [Purely Interpretative Optimizations](sbr-phd-thesis.pdf)\
-  Stefan Brunthaler.\
-  Dissertation, TU Wien, 2011.
-
-## Unreviewed Manuscripts
-1. S. Brunthaler: [Multi-Level Quickening: Ten Years After](https://arxiv.org/pdf/2109.02958.pdf). Arxiv.
-
 ## Reviewed Journal Papers
 1. N. Burow, S. A. Carr, J. Nash, P. Larsen, M. Franz, S. Brunthaler, and M. Payer. [Control-Flow Integrity: Precision, Security, and Performance](https://arxiv.org/pdf/1602.04056). In ACM Computing Surveys 50.1 (2017), pp. 1–33.
 1. G. Wagner, P. Larsen, S. Brunthaler, and M. Franz. Thinking Inside the Box. In ACM Transactions on Programming Languages and Systems 38.3 (2016), pp. 1–37.
@@ -56,4 +48,10 @@ Full list of publications, grouped by journals/conferences.
 1. S. Brunthaler. [Virtual-Machine Abstraction and Optimization Techniques](bytecode09.pdf). In Proceedings of the 4th International Workshop on Bytecode Semantics, Verification, Analysis and Transformation, York, United Kingdom, March 29, 2009 (BYTECODE ’09). Vol. 253(5). Electronic Notes in Theoretical Computer Science. York, United Kingdom: Elsevier, 2009, pp. 3–14.
 {: reversed="reversed"}
 
-## Misc.
+## Theses
+* [Purely Interpretative Optimizations](sbr-phd-thesis.pdf)\
+  Stefan Brunthaler.\
+  Dissertation, TU Wien, 2011.
+
+## Unreviewed Manuscripts
+1. S. Brunthaler: [Multi-Level Quickening: Ten Years After](https://arxiv.org/pdf/2109.02958.pdf). Arxiv.
