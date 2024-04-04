@@ -6,10 +6,11 @@
 2024-04-04  ICSME 2024                  Oct 6-11, Flagstaff, USA
 2024-04-05  SPLASH/OOPSLA 2024 2/2      Oct 20-25, Pasadena, USA
 2024-04-09  RAID 2024                   Sep 30 - Oct 2, Padua, Italy
-2024-04-12  ECOOP/ISSTA 2024 2/2        Sep 16-20, Vienna, Austria
-2024-04-14  CCS 2024                    Oct 14-18, Salt Lake City, USA
+2024-04-17  ECOOP/ISSTA 2024 2/2        Sep 16-20, Vienna, Austria
+2024-04-29  CCS 2024                    Oct 14-18, Salt Lake City, USA
 2024-05-01  Journal of Systems Research -
 2024-05-14  EuroSys 2025 1/2            March-April, Rotterdam, The Netherlands (w ASPLOS)
+2024-05-28  ACSAC 2024                  Dec 8-13, Waikiki, Hawaii
 2024-05-31  ASE 2024                    Oct 27 - Nov 1 Sacamento, USA
 2024-06-01  Art, Science & Eng. of Prog -
 2024-06-06  S&P (Oakland) 2025 1/2      ?
@@ -23,7 +24,6 @@
 2024-10-15  EuroSys 2025 2/2            March-April, Rotterdam, The Netherlands (w ASPLOS)
 2024-11-14  S&P (Oakland) 2025 2/2      ?
 2025-01-15  AsiaCCS 2025                Aug 25-25, Hanoi, Vietnam
-?           ACSAC 2024                  Dec 8-13, Waikiki, Hawaii
 ?           CC 2025                     ?
 ?           CCS 2025                    ?
 ?           CGO 2025                    ?
