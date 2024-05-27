@@ -42,7 +42,7 @@ We examine novel techniques in decompiling programs, i.e., the process of produc
 Bundles our research activities in *interpreter optimization*.
 Our present research efforts deal with purely-interpretative optimizations, i.e., trying to avoid dynamic code generation altogether.
 The key insight of Prof. Brunthaler's work from 2010 until 2014 was that an interpreter can do pretty much the same things as a JIT compiler.
-A series of optimizations addressed various shortcomings in isolation, such as providing [type feedback via inline caching](publications/ecoop10.pdf), or eliminating [reference count operations](publicatns/dls10.pdf).
+A series of optimizations addressed various shortcomings in isolation, such as providing [type feedback via inline caching](publications/ecoop10.pdf), or eliminating [reference count operations](publications/dls10.pdf).
 Later on, these techniques were combined to also eliminate the overhead of operating on boxed objects (see [Multi-Level Quickening](https://arxiv.org/pdf/2109.02958.pdf)).
 Multi-level quickening provided substantial speedups of up to 5.5x, but did not convince the reviewers in 2012, 2013, and 2014.
 
