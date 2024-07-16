@@ -52,6 +52,14 @@ As a result, this line of research, although academically unsuccessful, is used 
 
 
 ## Recent Publications
+* [Cross Module Quickening - The Curious Case of C Extensions](publications/cmq-ecoop24-preprint.pdf)\
+  Felix Berlakovich, Stefan Brunthaler.\
+  In **ECOOP '24**: 38th European Conference on Object-Oriented Programming (preprint)
+
+* [HOBBIT: Hashed OBject Based InTegrity](publications/hobbit-ecoop24-preprint.pdf)\
+  Matthias Bernad, Stefan Brunthaler.\
+  In **ECOOP '24**: 38th European Conference on Object-Oriented Programming (preprint)
+
 * [R2C: AOCR-Resilient Diversity with Reactive and Reflective Camouflage](publications/r2c-eurosys23.pdf)\
   Felix Berlakovich, Stefan Brunthaler.\
   In **EuroSys '23**: Proceedings of the Eighteenth European Conference on Computer Systems ([source](https://github.com/ucsrl/r2c-llvm), [artifact](https://doi.org/10.5281/zenodo.7728972))\
