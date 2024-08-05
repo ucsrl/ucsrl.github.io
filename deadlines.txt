@@ -1,8 +1,3 @@
-2024-07-10  NDSS 2025 2/2               Feb 23-28, San Diego, California
-2024-07-11  POPL 2025                   Jan 19-25, Denver, USA
-2024-07-26  ICSE 2025 2/2               Apr 27 - May 3, Ottawa, Canada
-2024-08-01  Journal of Systems Research -
-2024-08-04  IFL 2024                    Aug 27-29, Sussex, England
 2024-09-04  USENIX Sec 2025 1/2         Aug 13-15, Seattle, WA, USA
 2024-09-05  FSE 2025                    June 23-27, Trondheim, Norway
 2024-09-12  CGO 2025                    ?, Las Vegas, USA
@@ -19,6 +14,7 @@
 2025-02-01  Art, Science & Eng. of Prog -
 2025-03-01  Journal of Systems Research -
 2025-05-01  Journal of Systems Research -
+2025-08-01  Journal of Systems Research -
 ?           ACSAC 2025                  ?
 ?           ASE 2025                    ?
 ?           CC 2025                     ?
@@ -29,9 +25,13 @@
 ?           European LISP Symposium     ?
 ?           ICFP 2025                   ?
 ?           ICSA 2026                   ?
+?           ICSE 2026                   ?
 ?           ICSME 2025                  Sep 8-13, Auckland, New Zealand
 ?           ICST 2025                   ?
+?           IFL 2025                    ?
+?           NDSS 2025                   ?
 ?           PLDI 2025                   ?
+?           POPL 2026                   ?
 ?           RAID 2025                   ?
 ?           SANER 2025                  ?
 ?           SPLASH/OOPSLA 2025          ?
