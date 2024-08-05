@@ -1,6 +1,6 @@
 # Welcome to the official blog of [μCSRL](https://www.unibw.de/ucsrl-en)!
 
-The [Munich Computer System Research Laboratory](https://www.unibw.de/ucsrl-en), μCSRL for short, is a research lab at the [National Cyber Defense Research Institute CODE](https://www.unibw.de/code) at the [Universität der Bundeswehr, München](https://www.unibw.de), directed by Stefan Brunthaler.
+The [Munich Computer Systems Research Laboratory](https://www.unibw.de/ucsrl-en), μCSRL for short, is a research lab at the [National Cyber Defense Research Institute CODE](https://www.unibw.de/code) at the [Universität der Bundeswehr, München](https://www.unibw.de), directed by Stefan Brunthaler.
 This web page hosts all public artifacts of the research group, including blog posts, essays, source code, and tools.
 
 ## Research
