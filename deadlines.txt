@@ -9,6 +9,7 @@
 2024-10-15  EuroSys 2025 2/2            March-April, Rotterdam, The Netherlands (w ASPLOS)
 2024-10-15  OOPSLA 2025 1/2             ?
 2024-10-21  Euro S&P 2025               Jun 30 - Jul 4, Venice, Italy
+2024-10-31  ISSTA 2025                  Jun 25-28, Trondheim, Norway
 2024-11-14  PLDI 2025                   Jun 16-20, Seoul, South Korea
 2024-11-14  S&P (Oakland) 2025 2/2      ?
 2025-01-15  AsiaCCS 2025                Aug 25-25, Hanoi, Vietnam
@@ -19,7 +20,7 @@
 2025-05-01  Journal of Systems Research -
 2025-08-01  Journal of Systems Research -
 ?           ACSAC 2025                  ?
-?           ASE 2025                    ?
+?           ASE 2025                    Nov 16-20, Seoul, South Korea
 ?           CC 2025                     ?
 ?           CCS 2025                    ?
 ?           CSF 2025                    ?
