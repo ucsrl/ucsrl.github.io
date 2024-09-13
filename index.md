@@ -53,7 +53,7 @@ As a result, this line of research, although academically unsuccessful, is used 
 ## Recent Publications
 * [Understanding and Improving Coverage Tracking with AFL++ (Registered Report)](publications/fuzzing24.pdf)\
   Vasil Sarafov, David Markvica, Felix Berlakovich, Matthias Bernad, Stefan Brunthaler.\
-  In **FUZZING '24**: 3rd International Fuzzing Workshop (preprint)
+  In **FUZZING '24**: 3rd International Fuzzing Workshop (preprint, [more](/f24))
 
 * [Cross Module Quickening - The Curious Case of C Extensions](publications/cmq-ecoop24-preprint.pdf)\
   Felix Berlakovich, Stefan Brunthaler.\
