@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: μ-site
+logo: ucsrl.png
 
 github:
   is_project_page: false
