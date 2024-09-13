@@ -13,9 +13,10 @@ Full list of publications, grouped by journals/conferences.
 {: reversed="reversed"}
 
 ## Reviewed Conference and Journal Papers
-1. V. Sarafov, D. Markvica, F. Berlakovich, M. Bernad and S. Brunthaler. [Understanding and Improving Coverage Tracking with AFL++ (Registered Report)](fuzzing24.pdf). In FUZZING'24: 3rd International Fuzzing Workshop, Vienna, Austria, September 16, 2024. Ed. by M. Böhme, Y. Noller and L. Szekeres (preprint).
+1. V. Sarafov, D. Markvica, F. Berlakovich, M. Bernad and S. Brunthaler. [Understanding and Improving Coverage Tracking with AFL++ (Registered Report)](fuzzing24.pdf). In FUZZING'24: 3rd International Fuzzing Workshop, Vienna, Austria, September 16, 2024. Ed. by M. Böhme, Y. Noller, and L. Szekeres (preprint).
 1. F. Berlakovich and S. Brunthaler. [Cross Module Quickening - The Curious Case of C Extensions](cmq-ecoop24-preprint.pdf). In ECOOP '24: 38th European Conference on Object-Oriented Programming, Vienna, Austria, September 16 - 20, 2024. Ed. by J. Aldrich and G. Salvaneschi (preprint).
 1. M. Bernad and S. Brunthaler. [HOBBIT: Hashed OBject Based InTegrity](hobbit-ecoop24-preprint.pdf). In ECOOP '24: 38th European Conference on Object-Oriented Programming, Vienna, Austria, September 16 - 20, 2024. Ed. by J. Aldrich and G. Salvaneschi (preprint).
+1. R. Mechelinck, D. Dorfmeister, B. Fischer, S. Volckaert, S. Brunthaler. [GlueZilla: Efficient and Scalable Software to Hardware Binding using Rowhammer](gluezilla.pdf). In DIMVA '24: 21st Conference on Detection of Intrusions and Malware & Vulnerability Assessment, Lausanne, Switzerland, July 17 - 19, 2024. Ed. by F. Maggi, M. Egele, M. Payer, and M. Carminati.
 1. F. Berlakovich and S. Brunthaler. [R2C: AOCR-Resilient Diversity with Reactive and Reflective Camouflage](r2c-eurosys23.pdf). In EuroSys ’23: Eighteenth European Conference on Computer Systems, Rome, Italy, April 5 - 8, 2022. Ed. by A. Fedorova
    and D. Narayanan. (*Acceptance rate 16.2%*)
 1. M. Wiesinger, D. Dorfmeister, and S. Brunthaler. [MAD: Memory Allocation Diversity](dramsec21.pdf). In 1st Workshop on DRAM Security (DRAMSec), co-located with ISCA 2021, Virtual Event, June 17, 2021.

@@ -63,6 +63,10 @@ As a result, this line of research, although academically unsuccessful, is used 
   Matthias Bernad, Stefan Brunthaler.\
   In **ECOOP '24**: 38th European Conference on Object-Oriented Programming (preprint)
 
+* [GlueZilla: Efficient and Scalable Software to Hardware Binding using Rowhammer](publications/gluezilla.pdf)\
+  Ruben Mechelinck, Daniel Dorfmeister, Bernhard Fischer, Stijn Volckaert, Stefan Brunthaler.\
+  In **DIMVA '24**: 21st Conference on Detection of Intrusions and Malware & Vulnerability Assessment
+ 
 * [R2C: AOCR-Resilient Diversity with Reactive and Reflective Camouflage](publications/r2c-eurosys23.pdf)\
   Felix Berlakovich, Stefan Brunthaler.\
   In **EuroSys '23**: Proceedings of the Eighteenth European Conference on Computer Systems ([source](https://github.com/ucsrl/r2c-llvm), [artifact](https://doi.org/10.5281/zenodo.7728972))\
