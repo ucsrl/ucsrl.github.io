@@ -5,7 +5,7 @@ This web page hosts all public artifacts of the research group, including blog p
 
 ## Research
 As of Q4 2024, μCSRL conducts the following research projects.
-We have been quite active over the past couple of years and thus expect to publish multiple papers in 2024.
+<!--We have been quite active over the past couple of years and thus expect to publish multiple papers in 2024.-->
 
 
 ### *Fuzzing*: μ-fuzz
@@ -17,7 +17,8 @@ To support this project, we have a state-of-the-art fuzzing cluster with 1,200+ 
 Bundles our research activities in software diversification. Our recent milestones include:
 - New defense against Address-Oblivious Code Reuse (AOCR) through novel diversification techniques that prevent the code harvesting stage of the attack.
   [R2C: AOCR-Resilient Diversity with Reactive and Reflective Camouflage](publications/r2c-eurosys23.pdf)
-- New defense against Counterfeit-Object Oriented Programming (COOP) through new spatial diversification techniques. *Submitted for publication*.
+- New defense against Counterfeit-Object Oriented Programming (COOP) through new spatial diversification techniques.
+  [HOBBIT: Hashed OBject Based InTegrity](publications/hobbit-ecoop24-preprint.pdf)
 
 #### Leakage-resilient Diversity
 The goal of this line of research is to mitigate advanced code-reuse attacks, such as both direct and indirect JIT-ROP, COOP, AOCR, and PIROP.
