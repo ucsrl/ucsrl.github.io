@@ -4,7 +4,7 @@ The [Munich Computer Systems Research Laboratory](https://www.unibw.de/ucsrl-en)
 This web page hosts all public artifacts of the research group, including blog posts, essays, source code, and tools.
 
 ## Research
-As of Q1 2024, μCSRL conducts the following research projects.
+As of Q4 2024, μCSRL conducts the following research projects.
 We have been quite active over the past couple of years and thus expect to publish multiple papers in 2024.
 
 
@@ -50,8 +50,11 @@ At present, Python adopted the former optimization techniques, i.e., the quicken
 As a result, this line of research, although academically unsuccessful, is used by millions of people on a daily basis.
 
 
-
 ## Recent Publications
+* [Understanding and Improving Coverage Tracking with AFL++ (Registered Report)](publications/fuzzing24.pdf)\
+  Vasil Sarafov, David Markvica, Felix Berlakovich, Matthias Bernad, Stefan Brunthaler.\
+  In **FUZZING '24**: 3rd International FUzzing Workshop (preprint)
+
 * [Cross Module Quickening - The Curious Case of C Extensions](publications/cmq-ecoop24-preprint.pdf)\
   Felix Berlakovich, Stefan Brunthaler.\
   In **ECOOP '24**: 38th European Conference on Object-Oriented Programming (preprint)
