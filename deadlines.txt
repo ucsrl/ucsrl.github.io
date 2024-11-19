@@ -1,6 +1,3 @@
-2024-10-31  ISSTA 2025                  Jun 25-28, Trondheim, Norway
-2024-11-14  PLDI 2025                   Jun 16-20, Seoul, South Korea
-2024-11-14  S&P (Oakland) 2025 2/2      ?
 2024-12-04  DIMVA 2025 1/2              Jul 9-11, Graz, Austria
 2025-01-09  CCS 2025                    Oct 13-17 Taipei, Taiwan
 2025-01-15  AsiaCCS 2025                Aug 25-25, Hanoi, Vietnam
@@ -31,9 +28,12 @@
 ?           ICSME 2025                  Sep 8-13, Auckland, New Zealand
 ?           ICST 2025                   ?
 ?           IFL 2025                    ?
+?           ISSTA 2026                  ?
 ?           NDSS 2026                   ?
+?           PLDI 2026                   ?
 ?           POPL 2026                   ?
 ?           RAID 2025                   ?
+?           S&P (Oakland) 2026          ?
 ?           SANER 2025                  ?
 ?           WOOT 2025                   Aug 11-12, Seattle, WA, USA
 ?           WOOT 2026                   Aug 10-11, Baltimore, MD, USA
