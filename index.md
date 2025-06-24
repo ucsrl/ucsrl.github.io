@@ -54,15 +54,15 @@ As a result, this line of research, although academically unsuccessful, is used 
 ## Recent Publications
 * [Understanding and Improving Coverage Tracking with AFL++ (Registered Report)](publications/fuzzing24.pdf)\
   Vasil Sarafov, David Markvica, Felix Berlakovich, Matthias Bernad, Stefan Brunthaler.\
-  In **FUZZING '24**: 3rd International Fuzzing Workshop (preprint, [more](/f24))
+  In **FUZZING '24**: 3rd International Fuzzing Workshop ([more](/f24))
 
-* [Cross Module Quickening - The Curious Case of C Extensions](publications/cmq-ecoop24-preprint.pdf)\
+* [Cross Module Quickening - The Curious Case of C Extensions](publications/ecoop24-cmq.pdf)\
   Felix Berlakovich, Stefan Brunthaler.\
-  In **ECOOP '24**: 38th European Conference on Object-Oriented Programming (preprint)
+  In **ECOOP '24**: 38th European Conference on Object-Oriented Programming ([cpython source](https://github.com/fberlakovich/cmq-ae), [numpy source](https://github.com/fberlakovich/cmq-numpy-ae), [artifact](https://doi.org/10.5281/zenodo.11174717))
 
-* [HOBBIT: Hashed OBject Based InTegrity](publications/hobbit-ecoop24-preprint.pdf)\
+* [HOBBIT: Hashed OBject Based InTegrity](publications/ecoop24-hobbit.pdf)\
   Matthias Bernad, Stefan Brunthaler.\
-  In **ECOOP '24**: 38th European Conference on Object-Oriented Programming (preprint)
+  In **ECOOP '24**: 38th European Conference on Object-Oriented Programming ([source](https://github.com/mbernad/hobbit-artifact), [artifact](https://doi.org/10.5281/zenodo.11046716))
 
 * [GlueZilla: Efficient and Scalable Software to Hardware Binding using Rowhammer](publications/gluezilla.pdf)\
   Ruben Mechelinck, Daniel Dorfmeister, Bernhard Fischer, Stijn Volckaert, Stefan Brunthaler.\
