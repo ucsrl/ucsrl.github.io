@@ -13,6 +13,7 @@ Full list of publications, grouped by journals/conferences.
 {: reversed="reversed"}
 
 ## Reviewed Conference and Journal Papers
+1. V. Sarafov, D. Makrvica, S. Brunthaler. [TEPHRA: Principled Discovery of Fuzzer Limitations](publications/ase25-tephra.pdf). In ASE '25: 40th IEEE/ACM International Conference on Automated Software Engineering, Seoul, South Korea, November 16 - 20, 2025. Ed. by M. Böhme and L. Zhang.
 1. V. Sarafov, D. Markvica, F. Berlakovich, M. Bernad, and S. Brunthaler. [Understanding and Improving Coverage Tracking with AFL++ (Registered Report)](fuzzing24.pdf). In FUZZING'24: 3rd International Fuzzing Workshop, Vienna, Austria, September 16, 2024. Ed. by M. Böhme, Y. Noller, and L. Szekeres.
 1. F. Berlakovich and S. Brunthaler. [Cross Module Quickening - The Curious Case of C Extensions](ecoop24-cmq.pdf). In 38th European Conference on Object-Oriented Programming (ECOOP 2024). Leibniz International Proceedings in Informatics (LIPIcs), Volume 313, pp. 6:1-6:29, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2024).
 1. M. Bernad and S. Brunthaler. [HOBBIT: Hashed OBject Based InTegrity](ecoop24-hobbit.pdf). In 38th European Conference on Object-Oriented Programming (ECOOP 2024). Leibniz International Proceedings in Informatics (LIPIcs), Volume 313, pp. 7:1-7:25, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2024).
