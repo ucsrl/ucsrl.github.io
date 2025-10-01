@@ -54,7 +54,7 @@ As a result, this line of research, although academically unsuccessful, is used 
 ## Recent Publications
 * [TEPHRA: Principled Discovery of Fuzzer Limitations](publications/ase25-tephra.pdf)\
   Vasil Sarafov, David Markvica, Stefan Brunthaler.\
-  In **ASE '25**: 40th IEEE/ACM International Conference on Automated Software Engineering ([more](/tephra))
+  In **ASE '25**: 40th IEEE/ACM International Conference on Automated Software Engineering ([more](/research/tephra))
 
 * [Understanding and Improving Coverage Tracking with AFL++ (Registered Report)](publications/fuzzing24.pdf)\
   Vasil Sarafov, David Markvica, Felix Berlakovich, Matthias Bernad, Stefan Brunthaler.\
