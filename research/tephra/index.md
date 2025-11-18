@@ -2,9 +2,10 @@
 
 This page collects all (supplemental) material for the publication:
 
-[TEPHRA: Principled Discovery of Fuzzer Limitations](publications/ase25-tephra.pdf)\
+[TEPHRA: Principled Discovery of Fuzzer Limitations](/publications/ase25-tephra.pdf)\
 Vasil Sarafov, David Markvica, Stefan Brunthaler.\
-In **ASE '25**: 40th IEEE/ACM International Conference on Automated Software Engineering, Seoul, South Korea, November 16 - 20, 2025.
+In **ASE '25**: 40th IEEE/ACM International Conference on Automated Software Engineering, Seoul, South Korea, November 16 - 20, 2025. \
+_ACM SIGSOFT Distinguished Paper Award_
 
 | Paper                               | [download](/publications/ase25-tephra.pdf) (pdf, 677K) |
 | ASE'25 slides                       | [download](/research/tephra/ase25-tephra-slides.pdf) (pdf, 1.8M) |
