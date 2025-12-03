@@ -1,17 +1,28 @@
-# Welcome to the official blog of [μCSRL](https://www.unibw.de/ucsrl-en)!
+# Welcome to the official online presence of [μCSRL](https://www.unibw.de/ucsrl-en)!
 
 The [Munich Computer Systems Research Laboratory](https://www.unibw.de/ucsrl-en), μCSRL for short, is a research lab at the [National Cyber Defense Research Institute CODE](https://www.unibw.de/code) at the [Universität der Bundeswehr, München](https://www.unibw.de), directed by Stefan Brunthaler.
 This web page hosts all public artifacts of the research group, including blog posts, essays, source code, and tools.
 
-## Research
-As of Q4 2024, μCSRL conducts the following research projects.
-<!--We have been quite active over the past couple of years and thus expect to publish multiple papers in 2024.-->
+## Opportunities
+If getting a PhD sounds interesting, and some of the topics below sound interesting, too, then please get in touch with us! Email address is u c s r l at unibw dot de
 
+### No Army Affiliation needed!
+Because students keep asking us:
+Our PhD researchers are **not** in any way affiliated with Germany's armed forces but normal, civilian PhD students that have obtained their Master's degrees from other universities (TU Munich, TU Wien, and HHU, to be precise).
+Although most of our Bachelor and Masters students are, in fact, officers in the German Bundeswehr, most of them continue in their military career.
+
+If you have an accredited Master's degree from a European university, you are welcome to join μCSRL! (And you will also not have to perform any military duties.)
+
+
+## Research
+As of Q1 2026, μCSRL conducts the following research projects.
+Our publication pipeline is still filled to the brim and we expect to publish multiple papers in 2026.
 
 ### *Fuzzing*: μ-fuzz
 Bundles our research activities in automated vulnerability identification via *fuzzing*.
 Our objective for this project is the investigation of combinatorial optimization of fuzzing on clusters.
 To support this project, we have a state-of-the-art fuzzing cluster with 1,200+ CPUs.
+In 2025, we extended this cluster such that we have even more compute available, and we also received a distinguished paper award for our work on [Tephra](publications/ase25-tephra.pdf).
 
 ### *Language-based Security -- Software Diversity*: μ-proteus
 Bundles our research activities in software diversification. Our recent milestones include:
@@ -33,8 +44,7 @@ Similarly, we published a defense against timing-based cache side-channels throu
 
 ### *Supply-Chain Attacks*: μ-c
 We are actively investigating how to address supply-chain attacks at compile time through developing our own compiler infrastructure.
-This compiler combines our state-of-the-art software diversification techniques and offers support for C and multiple backends.
-
+This compiler combines our state-of-the-art software diversification techniques.
 
 ### *Decompilation*: μ-dc
 We examine novel techniques in decompiling programs, i.e., the process of producing source code from programs in binary form.
@@ -46,6 +56,9 @@ The key insight of Prof. Brunthaler's work from 2010 until 2014 was that an inte
 A series of optimizations addressed various shortcomings in isolation, such as providing [type feedback via inline caching](publications/ecoop10.pdf), or eliminating [reference count operations](publications/dls10.pdf).
 Later on, these techniques were combined to also eliminate the overhead of operating on boxed objects (see [Multi-Level Quickening](https://arxiv.org/pdf/2109.02958.pdf)).
 Multi-level quickening provided substantial speedups of up to 5.5x, but did not convince the reviewers in 2012, 2013, and 2014.
+In 2024, Felix Berlakovich and myself presented a way to optimize across separately compiled C extensions in Python using quickening, aptly named [Cross Module Quickening](publications/ecoop24-cmq.pdf).
+
+We are also actively researching novel optimization methods for WASM, and expect to publish our recent results in 2026.
 
 At present, Python adopted the former optimization techniques, i.e., the quickening-based inline caching, since version 3.10, and will adopt the latter technique in future versions.
 As a result, this line of research, although academically unsuccessful, is used by millions of people on a daily basis.
@@ -71,7 +84,7 @@ As a result, this line of research, although academically unsuccessful, is used 
 * [GlueZilla: Efficient and Scalable Software to Hardware Binding using Rowhammer](publications/gluezilla.pdf)\
   Ruben Mechelinck, Daniel Dorfmeister, Bernhard Fischer, Stijn Volckaert, Stefan Brunthaler.\
   In **DIMVA '24**: 21st Conference on Detection of Intrusions and Malware & Vulnerability Assessment
- 
+
 * [R2C: AOCR-Resilient Diversity with Reactive and Reflective Camouflage](publications/r2c-eurosys23.pdf)\
   Felix Berlakovich, Stefan Brunthaler.\
   In **EuroSys '23**: Proceedings of the Eighteenth European Conference on Computer Systems ([source](https://github.com/ucsrl/r2c-llvm), [artifact](https://doi.org/10.5281/zenodo.7728972))\
