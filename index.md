@@ -3,16 +3,6 @@
 The [Munich Computer Systems Research Laboratory](https://www.unibw.de/ucsrl-en), μCSRL for short, is a research lab at the [National Cyber Defense Research Institute CODE](https://www.unibw.de/code) at the [Universität der Bundeswehr, München](https://www.unibw.de), directed by Stefan Brunthaler.
 This web page hosts all public artifacts of the research group, including blog posts, essays, source code, and tools.
 
-## Opportunities
-If getting a PhD sounds interesting, and some of the topics below sound interesting, too, then please get in touch with us! Email address is u c s r l at unibw dot de
-
-### No Army Affiliation needed!
-Because students keep asking us:
-Our PhD researchers are **not** in any way affiliated with Germany's armed forces but normal, civilian PhD students that have obtained their Master's degrees from other universities (TU Munich, TU Wien, and HHU, to be precise).
-Although most of our Bachelor and Masters students are, in fact, officers in the German Bundeswehr, most of them continue in their military career.
-
-If you have an accredited Master's degree from a European university, you are welcome to join μCSRL! (And you will also not have to perform any military duties.)
-
 
 ## Research
 As of Q1 2026, μCSRL conducts the following research projects.
